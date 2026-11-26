@@ -2,10 +2,10 @@
     .admin-shell--workspace,
     .login-shell,
     body:has(.admin-shell--workspace) > .dialog-content {
-        --brand: #c8450a;
-        --brand-hover: #a83706;
-        --brand-soft: #fff0e7;
-        --focus: #b53c08;
+        --brand: #66147c;
+        --brand-hover: #4d0d61;
+        --brand-soft: #f5e9fb;
+        --focus: #66147c;
         --background: #f6f7f8;
         --surface: #fff;
         --surface-muted: #f3f5f6;
@@ -390,7 +390,7 @@
   }
 
   .manual-order-line__price {
-    color: var(--brand-hover, #a83706);
+    color: var(--brand-hover, #4d0d61);
     font-size: 0.9rem;
     font-weight: 850;
     font-variant-numeric: tabular-nums;
@@ -452,7 +452,7 @@
   .manual-order-totals > .manual-order-totals__total {
     padding-top: 0.85rem;
     border-top: 1px solid var(--border, #e5e9e6);
-    color: var(--brand-hover, #a83706);
+    color: var(--brand-hover, #4d0d61);
     font-size: 1.08rem;
     font-weight: 850;
   }
@@ -555,7 +555,7 @@
   }
 
   .manual-order-checkout__total > strong {
-    color: var(--brand-hover, #a83706);
+    color: var(--brand-hover, #4d0d61);
     white-space: nowrap;
     font-variant-numeric: tabular-nums;
   }
@@ -597,7 +597,7 @@
     padding: 0.75rem 0.9rem;
     border: 0;
     border-radius: 1rem;
-    background: var(--brand, #c8450a);
+    background: var(--brand, #66147c);
     color: #fff;
     box-shadow: 0 8px 25px rgb(21 30 21 / 22%);
     cursor: pointer;

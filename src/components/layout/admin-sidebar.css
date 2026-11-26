@@ -34,9 +34,9 @@
     min-width: 0;
     padding: 1rem .65rem;
     overflow: hidden;
-    border-right: 1px solid var(--admin-sidebar-border, #28362a);
-    background: var(--admin-sidebar-bg, #151e15);
-    color: #edf3eb;
+    border-right: 1px solid var(--admin-sidebar-border, #4d2959);
+    background: var(--admin-sidebar-bg, #270c34);
+    color: #f5eafa;
   }
 
   /* Marca e botão: na barra aberta ficam na mesma linha. */
@@ -80,7 +80,7 @@
     width: 2.75rem;
     height: 2.75rem;
     border-radius: .65rem;
-    background: #293a2a;
+    background: #3a104e;
     color: #fff;
     box-shadow: none;
     transform: none;
@@ -113,7 +113,7 @@
   }
 
   .admin-shell--workspace[data-sidebar-expanded="true"] > .admin-sidebar .admin-sidebar__brand-row .brand-mark small {
-    color: #c5d0c2;
+    color: #e6d5ef;
     font-size: .66rem;
   }
 
@@ -124,16 +124,16 @@
     width: 2.75rem;
     height: 2.75rem;
     padding: 0;
-    border: 1px solid #435742;
+    border: 1px solid #765285;
     border-radius: .65rem;
-    background: #273629;
-    color: #f4f7f3;
+    background: #3b174b;
+    color: #fff7dc;
     cursor: pointer;
     transition: background-color 160ms ease;
   }
 
   .admin-shell--workspace[data-sidebar-expanded] > .admin-sidebar .admin-sidebar__toggle:hover {
-    background: #334834;
+    background: #4b1d61;
   }
 
   .admin-shell--workspace[data-sidebar-expanded] > .admin-sidebar .admin-sidebar__toggle svg {
@@ -156,7 +156,7 @@
     overflow-x: hidden;
     overflow-y: auto;
     scrollbar-width: thin;
-    scrollbar-color: #536451 transparent;
+    scrollbar-color: #886295 transparent;
   }
 
   /* Neutraliza os links antigos de 3rem, centralizados no admin.css. */
@@ -175,7 +175,7 @@
     border: 0;
     border-radius: .65rem;
     background: transparent;
-    color: #e0e8de;
+    color: #f2e8f5;
     font-size: .875rem;
     font-weight: 750;
     line-height: 1.2;
@@ -233,15 +233,15 @@
 
   .admin-shell--workspace[data-sidebar-expanded] > .admin-sidebar > .admin-nav > a.admin-nav__link:hover,
   .admin-shell--workspace[data-sidebar-expanded] > .admin-sidebar .admin-sidebar__profile:hover {
-    background: #304231;
+    background: #54266b;
     color: #fff;
   }
 
   .admin-shell--workspace[data-sidebar-expanded] > .admin-sidebar > .admin-nav > a.admin-nav__link[aria-current="page"],
   .admin-shell--workspace[data-sidebar-expanded] > .admin-sidebar .admin-sidebar__profile[aria-current="page"] {
-    background: #c8450a;
-    color: #fff;
-    box-shadow: none;
+    background: linear-gradient(105deg, #672386, #4a1764);
+    color: #fff9e6;
+    box-shadow: inset 3px 0 0 #ffcf24, 0 5px 14px rgb(12 2 23 / 20%);
   }
 
   .admin-shell--workspace[data-sidebar-expanded] > .admin-sidebar .admin-sidebar__profile {
@@ -256,10 +256,10 @@
     min-height: 2.85rem;
     margin: auto 0 0;
     padding: .65rem .85rem;
-    border: 1px solid #435742;
+    border: 1px solid #765285;
     border-radius: .65rem;
     background: transparent;
-    color: #e0e8de;
+    color: #f2e8f5;
     font-size: .875rem;
     text-decoration: none;
   }
@@ -274,7 +274,7 @@
   }
 
   .admin-shell--workspace[data-sidebar-expanded] > .admin-sidebar :is(a, button):focus-visible {
-    outline: 3px solid #ffb18a;
+    outline: 3px solid #ffcf24;
     outline-offset: 2px;
   }
 }

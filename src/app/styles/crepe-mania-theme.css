@@ -1,0 +1,552 @@
+/*
+ * CREPE MANIA — Identidade visual v1 (somente apresentação)
+ *
+ * Referências do cliente: roxo de ameixa, violeta vivo, amarelo dourado,
+ * luz quente e acabamento artesanal. Importado APÓS os estilos existentes.
+ *
+ * Escopo deliberado: cor, fundo, borda, sombra e efeitos suaves.
+ * Não alterar grids, tamanhos, espaçamento, posições nem componentes.
+ * Estados semânticos (sucesso/aviso/erro) continuam distinguíveis.
+ */
+
+:root {
+  color-scheme: light;
+  --brand: #66147c;
+  --brand-hover: #4d0d61;
+  --brand-soft: #f5e9fb;
+  --accent: #ffcf24;
+  --accent-soft: #fff7d9;
+  --background: #fbf8fd;
+  --surface: #ffffff;
+  --surface-muted: #f8f2fb;
+  --text: #2b1734;
+  --text-muted: #66576e;
+  --border: #e8dced;
+  --table-header-bg: #f3eafa;
+  --table-header-text: #4f3260;
+  --table-header-divider: #d8c9e2;
+  --admin-sidebar-bg: #270c34;
+  --admin-sidebar-border: #4d2959;
+  --focus: #671783;
+  --shadow-sm: 0 2px 10px rgb(52 13 65 / 6%);
+  --shadow-md: 0 14px 34px rgb(52 13 65 / 13%);
+  --cm-purple-deep: #270c34;
+  --cm-purple-dark: #3a104e;
+  --cm-purple: #66147c;
+  --cm-purple-light: #8c29a8;
+  --cm-gold: #ffcf24;
+  --cm-gold-light: #fff5ca;
+  --cm-glow: rgb(255 207 36 / 25%);
+}
+
+::selection {
+  background: var(--cm-gold);
+  color: var(--cm-purple-deep);
+}
+
+:focus-visible {
+  outline-color: var(--focus);
+}
+
+/* Superfícies e controles: aparência artesanal sem modificar dimensões. */
+.site-shell {
+  background: var(--background);
+}
+.site-shell .site-header {
+  background: rgb(255 251 255 / 95%);
+  border-bottom-color: var(--border);
+}
+.site-shell .brand-mark__icon {
+  background: var(--cm-purple);
+  color: var(--cm-gold);
+  box-shadow: 4px 4px 0 var(--cm-gold);
+}
+.site-shell .site-footer {
+  background: linear-gradient(135deg, #24092f, #481058 76%, #2b0d38);
+  color: #fff;
+}
+.site-shell .site-footer p {
+  color: #e8d9ee;
+}
+.site-shell .site-footer > div > a:last-child {
+  color: var(--cm-gold);
+}
+.site-shell .button--primary {
+  background: var(--brand);
+  color: #fff;
+  box-shadow: 0 3px 10px rgb(76 11 95 / 10%);
+}
+.site-shell .button--primary:hover:not(:disabled) {
+  background: var(--brand-hover);
+  box-shadow: 0 5px 16px rgb(76 11 95 / 20%);
+}
+.site-shell .button--secondary {
+  background: var(--cm-gold-light);
+  border-color: #e8bb20;
+  color: var(--cm-purple-deep);
+}
+.site-shell .button--secondary:hover:not(:disabled) {
+  background: var(--cm-gold);
+}
+.site-shell .button--ghost:hover:not(:disabled),
+.site-shell .icon-button:hover:not(:disabled) {
+  background: var(--brand-soft);
+  border-color: #b58cc7;
+}
+.site-shell :is(.input, .select, .textarea):focus {
+  border-color: var(--brand);
+  box-shadow: 0 0 0 3px rgb(102 20 124 / 15%);
+}
+.site-shell .card {
+  border-color: var(--border);
+  box-shadow: var(--shadow-sm);
+}
+
+/* Cardápio: mantém hero, fotos, filtros, cards e carrinho nas mesmas posições. */
+.public-menu {
+  --background: #fdfaff;
+  --surface-muted: #f8f0fb;
+  --text: #291630;
+  --text-muted: #66576e;
+  --border: #eaddeb;
+  background: var(--background);
+}
+.site-shell:has(> .public-menu) .site-header {
+  /* O header sobrepõe o hero atual; preservar transparência e posição. */
+  background: transparent;
+  border-color: transparent;
+}
+.site-shell:has(> .public-menu) .site-header nav > a {
+  background: rgb(38 9 51 / 80%);
+  border-color: rgb(255 207 36 / 27%);
+  color: #fff;
+  box-shadow: 0 2px 10px rgb(20 4 27 / 15%);
+}
+.site-shell:has(> .public-menu) .site-header nav > a:hover {
+  background: rgb(102 20 124 / 95%);
+}
+.site-shell:has(> .public-menu) .site-header .brand-mark__icon {
+  background: rgb(44 8 57 / 88%);
+  color: var(--cm-gold);
+  box-shadow: 0 0 0 1px rgb(255 207 36 / 30%);
+}
+.public-menu .menu-intro {
+  background-color: var(--cm-purple-deep);
+  background-image:
+    radial-gradient(ellipse at 82% 30%, rgb(255 207 36 / 18%), transparent 56%),
+    linear-gradient(110deg, #23092e 0%, #48115b 55%, #6d1683 100%);
+  color: #fff;
+  border-color: transparent;
+}
+.public-menu .menu-intro__copy .eyebrow {
+  color: var(--cm-gold);
+}
+.public-menu .menu-intro__copy h1 {
+  color: #fff;
+  text-shadow: 0 2px 12px rgb(21 4 29 / 24%);
+}
+.public-menu .menu-intro__copy h1 span {
+  color: var(--cm-gold);
+  text-decoration-color: #fff4b3;
+}
+.public-menu .menu-intro__copy > p:last-child {
+  color: #f0dff5;
+}
+.public-menu .store-summary {
+  background: rgb(31 7 41 / 77%);
+  border: 1px solid rgb(255 207 36 / 22%);
+  box-shadow: 0 8px 20px rgb(17 3 23 / 17%);
+}
+.public-menu .store-summary__head > strong {
+  color: #fff7cf;
+}
+.public-menu .store-summary > p,
+.public-menu .store-summary__details {
+  color: #f4e8f7;
+}
+.public-menu .search-box .input {
+  border-color: #e8d9eb;
+  background: #fff;
+  box-shadow: 0 4px 16px rgb(71 20 82 / 9%);
+}
+.public-menu .search-box .input:focus {
+  border-color: var(--cm-purple);
+  box-shadow: 0 0 0 3px rgb(255 207 36 / 32%);
+}
+.public-menu .category-rail {
+  scrollbar-color: #a974b9 transparent;
+}
+.public-menu .category-item__image {
+  border-color: #e5cdeb;
+  background: #fff;
+  box-shadow: 0 2px 8px rgb(66 14 76 / 7%);
+}
+.public-menu .category-rail button[aria-current="true"] {
+  color: var(--cm-purple-dark);
+}
+.public-menu .category-rail button[aria-current="true"] .category-item__image {
+  border-color: var(--cm-purple);
+  background: var(--cm-gold-light);
+  box-shadow: 0 0 0 3px rgb(255 207 36 / 28%);
+}
+.public-menu .category-rail button:active {
+  background: var(--brand-soft);
+}
+.public-menu .menu-category > header h3,
+.public-menu .public-section-heading h2 {
+  color: var(--cm-purple-deep);
+}
+.public-menu .product-card {
+  border-color: #eaddeb;
+  background: #fff;
+  box-shadow: 0 4px 18px rgb(49 12 61 / 7%);
+  transition: border-color 180ms ease, box-shadow 180ms ease;
+}
+.public-menu .product-card:hover {
+  border-color: #ca9bd7;
+  box-shadow: 0 12px 25px rgb(53 13 68 / 14%);
+}
+.public-menu .product-card__image,
+.public-menu .product-placeholder {
+  background: #f5edf8;
+}
+.public-menu .product-card__image .badge {
+  background: rgb(255 247 211 / 96%);
+  color: var(--cm-purple-deep);
+  border-color: rgb(255 207 36 / 45%);
+}
+.public-menu .product-card__foot .currency {
+  color: var(--cm-purple-dark);
+}
+.public-menu .product-card__foot > a {
+  background: var(--cm-gold);
+  color: var(--cm-purple-deep);
+  box-shadow: 0 2px 8px rgb(129 78 0 / 11%);
+}
+.public-menu .product-card__foot > a:hover {
+  background: var(--cm-purple);
+  color: #fff;
+}
+.public-menu .menu-cart-summary .sticky-summary {
+  border-color: #eaddeb;
+  background: #fff;
+  box-shadow: var(--shadow-md);
+}
+.public-menu .mobile-cart-bar {
+  background: linear-gradient(95deg, #2b0a38, #631278);
+  border: 1px solid rgb(255 207 36 / 40%);
+  box-shadow: 0 12px 28px rgb(33 4 45 / 26%);
+}
+.public-menu .mobile-cart-bar small {
+  color: #ead9ee;
+}
+.public-menu .mobile-cart-bar > .currency {
+  color: var(--cm-gold);
+}
+
+/* Detalhe do produto, personalização e fluxo de compra. */
+.site-shell .product-detail__visual {
+  background: var(--surface-muted);
+  border-color: #e4d1e9;
+  box-shadow: 0 10px 32px rgb(52 13 65 / 10%);
+}
+.site-shell .product-detail__label {
+  background: rgb(255 246 202 / 96%);
+  border-color: #eed36c;
+  color: var(--cm-purple-deep);
+}
+.product-page .base-price .currency,
+.product-page .additional-row .currency,
+.product-page .add-bar .currency {
+  color: var(--cm-purple-dark);
+}
+.product-page .option-group,
+.product-page .add-bar {
+  border-color: #e7d9eb;
+  box-shadow: 0 4px 18px rgb(52 13 65 / 5%);
+}
+.product-page .option-group .choice:has(input:checked),
+.checkout-page .delivery-options .choice:has(input:checked) {
+  border-color: var(--cm-purple);
+  background: var(--brand-soft);
+  box-shadow: inset 0 0 0 1px rgb(102 20 124 / 22%);
+}
+.product-page .stepper .icon-button {
+  color: var(--cm-purple-dark);
+}
+.checkout-page .checkout-summary.card {
+  background: linear-gradient(145deg, #2a0b39, #49115d);
+  border-color: #411251;
+  box-shadow: 0 12px 30px rgb(41 8 54 / 17%);
+}
+.checkout-page .checkout-summary .price-line--total {
+  color: var(--cm-purple-dark);
+}
+.checkout-page .checkout-summary .button--ghost {
+  color: #f6eafa;
+}
+
+/* Demais telas públicas: cor e feedback, sem alterar layouts. */
+.site-shell .eyebrow,
+.site-shell .base-price .currency {
+  color: var(--cm-purple);
+}
+.site-shell .status:not(.status--pendente):not(.status--em_preparo):not(.status--pronto_para_retirada):not(.status--saiu_para_entrega):not(.status--entregue):not(.status--pago):not(.status--cancelado):not(.status--estornado) {
+  border-color: #ddc9e6;
+}
+.site-shell .site-header nav .cart-link {
+  background: var(--cm-purple);
+  color: #fff;
+}
+.site-shell .site-header nav .cart-link:hover {
+  background: var(--cm-purple-dark);
+}
+.site-shell .site-header nav .cart-link span {
+  background: var(--cm-gold);
+  color: var(--cm-purple-deep);
+}
+
+/* Dashboard: identidade compartilhada, respeitando todos os estados de negócio. */
+@media screen {
+  .admin-shell--workspace,
+  .login-shell,
+  body:has(.admin-shell--workspace) > .dialog-content {
+    --brand: #66147c;
+    --brand-hover: #4d0d61;
+    --brand-soft: #f5e9fb;
+    --accent: #ffcf24;
+    --accent-soft: #fff7d9;
+    --focus: #66147c;
+    --background: #faf7fc;
+    --surface: #fff;
+    --surface-muted: #f6eef9;
+    --text: #291630;
+    --text-muted: #66576e;
+    --border: #e8dced;
+    --table-header-bg: #f4eafa;
+    --table-header-text: #4e335d;
+    --admin-sidebar-bg: #260b32;
+    --admin-sidebar-border: #4b2759;
+    --admin-list-surface: #fff;
+    --admin-list-header: #321041;
+    --admin-list-stripe: #faf5fc;
+    --admin-list-line: #e4d5e9;
+    --admin-list-text: #312238;
+    --admin-list-muted: #6d5c72;
+    --admin-list-hover: #f4e9fa;
+    --admin-list-lime: #ffcf24;
+    --shadow-sm: 0 2px 10px rgb(52 13 65 / 6%);
+    --shadow-md: 0 12px 28px rgb(52 13 65 / 12%);
+  }
+}
+
+.admin-shell--workspace {
+  background: #faf7fc;
+}
+.admin-shell--workspace .admin-topbar {
+  background: #fff;
+  border-bottom-color: #e5d7ea;
+  box-shadow: 0 2px 12px rgb(53 13 66 / 4%);
+}
+.admin-shell--workspace .admin-user__avatar {
+  background: var(--brand-soft);
+  color: var(--cm-purple-dark);
+  box-shadow: inset 0 0 0 1px #dfc5e8;
+}
+.admin-shell--workspace .admin-bottom-nav {
+  background: #fff;
+  border-top-color: #e7d9eb;
+  box-shadow: 0 -4px 14px rgb(52 13 65 / 5%);
+}
+.admin-shell--workspace .admin-bottom-nav > :is(a, button) {
+  color: #66576e;
+}
+.admin-shell--workspace .admin-bottom-nav > [aria-current="page"] {
+  background: var(--cm-gold-light);
+  color: var(--cm-purple-deep);
+}
+.admin-shell--workspace .admin-sidebar {
+  background: linear-gradient(180deg, #25092f, #3c104d);
+  border-right-color: #51245f;
+  scrollbar-color: #83559b #270c34;
+}
+.admin-shell--workspace .admin-sidebar .brand-mark {
+  color: #fff;
+}
+.admin-shell--workspace .admin-sidebar .brand-mark__icon {
+  background: #5f1975;
+  color: var(--cm-gold);
+  box-shadow: inset 0 0 0 1px rgb(255 207 36 / 27%);
+}
+.admin-shell--workspace .admin-nav a {
+  color: #eadbed;
+}
+.admin-shell--workspace .admin-nav a:hover {
+  background: #542068;
+  color: #fff;
+}
+.admin-shell--workspace .admin-nav a[aria-current="page"] {
+  background: var(--cm-gold);
+  color: var(--cm-purple-deep);
+  box-shadow: 0 2px 10px rgb(255 207 36 / 13%);
+}
+.admin-shell--workspace .admin-nav a[aria-current="page"]:hover {
+  background: #ffda54;
+  color: var(--cm-purple-deep);
+}
+.admin-shell--workspace .admin-nav__label {
+  background: #24092e;
+  color: #fff;
+  border-color: #775184;
+}
+.admin-shell--workspace .admin-sidebar__profile {
+  border-color: #704078;
+  color: #f3e6f5;
+}
+.admin-shell--workspace .admin-sidebar a:focus-visible {
+  outline-color: var(--cm-gold);
+}
+.admin-shell--workspace :is(.card, .data-card, .admin-card, .catalog-card) {
+  border-color: #e7d9eb;
+  background: #fff;
+  box-shadow: 0 3px 15px rgb(43 9 56 / 5%);
+}
+.admin-shell--workspace :is(.card, .data-card, .admin-card):hover {
+  border-color: #dfc4e7;
+}
+.admin-shell--workspace :is(.metric, .order-card, .report-catalog-card):hover {
+  box-shadow: 0 7px 22px rgb(43 9 56 / 10%);
+}
+.admin-shell--workspace .metric--urgent {
+  border-color: #8a36a2;
+  box-shadow: inset 0 4px var(--cm-gold), 0 4px 16px rgb(43 9 56 / 9%);
+}
+.admin-shell--workspace .metric strong,
+.admin-shell--workspace .metric > .currency {
+  color: var(--cm-purple-dark);
+}
+.admin-shell--workspace .chart-bar__fill {
+  background: linear-gradient(90deg, #6b1881, #b34ac9);
+}
+.admin-shell--workspace .chart-bar__track {
+  background: #f0e3f4;
+}
+.admin-shell--workspace .catalog-categories,
+.admin-shell--workspace .catalog-editor,
+.admin-shell--workspace .store-tabs {
+  background: #fff;
+  border-color: #e9dbec;
+}
+.admin-shell--workspace .catalog-category[aria-pressed="true"],
+.admin-shell--workspace .catalog-card[data-selected],
+.admin-shell--workspace .manual-catalog .catalog-card[aria-pressed="true"] {
+  border-color: var(--cm-purple);
+  background: #fbf5ff;
+  box-shadow: inset 0 0 0 1px rgb(102 20 124 / 35%);
+}
+.admin-shell--workspace .catalog-category__icon,
+.admin-shell--workspace .catalog-photo {
+  background: #f5edf8;
+  color: #755480;
+}
+.admin-shell--workspace .catalog-category[aria-pressed="true"] .catalog-category__icon {
+  background: var(--cm-gold-light);
+  color: var(--cm-purple-deep);
+}
+.admin-shell--workspace .catalog-card__price {
+  color: var(--cm-purple-dark);
+}
+.admin-shell--workspace .catalog-card:hover {
+  border-color: #c9a3d5;
+  box-shadow: 0 10px 24px rgb(53 13 66 / 10%);
+}
+.admin-shell--workspace .store-tabs__tab[aria-selected="true"] {
+  background: var(--cm-gold-light);
+  color: var(--cm-purple-deep);
+  border-color: #e9c544;
+  box-shadow: inset 0 -2px var(--cm-purple);
+}
+.admin-shell--workspace .button--primary {
+  background: var(--cm-purple);
+  color: #fff;
+  box-shadow: 0 3px 12px rgb(102 20 124 / 13%);
+}
+.admin-shell--workspace .button--primary:hover:not(:disabled) {
+  background: var(--cm-purple-dark);
+}
+.admin-shell--workspace .button--secondary {
+  background: var(--cm-gold-light);
+  border-color: #e8c445;
+  color: var(--cm-purple-deep);
+}
+.admin-shell--workspace .button--secondary:hover:not(:disabled) {
+  background: var(--cm-gold);
+}
+.admin-shell--workspace :is(.input, .select, .textarea):focus {
+  border-color: var(--cm-purple);
+  box-shadow: 0 0 0 3px rgb(102 20 124 / 12%);
+}
+.admin-shell--workspace .responsive-table,
+.admin-shell--workspace .report-preview .report-table-wrap {
+  border-color: #e4d5e9;
+  box-shadow: 0 5px 20px rgb(43 9 56 / 5%);
+}
+.admin-shell--workspace .responsive-table thead th,
+.admin-shell--workspace .report-preview thead th {
+  background: var(--cm-purple-deep);
+  color: #fff;
+  border-bottom-color: #553060;
+}
+.admin-shell--workspace .responsive-table tbody tr:hover td,
+.admin-shell--workspace .report-preview tbody tr:hover td {
+  background: #f5eaf9;
+}
+.admin-shell--workspace .responsive-table .table-primary strong {
+  color: var(--cm-purple-deep);
+}
+.admin-shell--workspace .catalog-clear,
+.admin-shell--workspace .catalog-card__edit {
+  color: var(--cm-purple-dark);
+}
+.admin-shell--workspace .dashboard-store-status {
+  border-color: #e4d5e9;
+  background: #fff;
+}
+.admin-shell--workspace .dashboard-store-status--open {
+  border-left-color: var(--success);
+}
+.admin-shell--workspace .dashboard-store-status--warning {
+  border-left-color: var(--warning);
+}
+.login-shell {
+  background: radial-gradient(circle at 16% 18%, rgb(255 207 36 / 14%), transparent 33%),
+    linear-gradient(145deg, #260b32, #5b1470);
+}
+.login-shell .login-card {
+  background: #fff;
+  border: 1px solid #e6d6eb;
+  box-shadow: 0 17px 45px rgb(25 5 32 / 28%);
+}
+.login-shell .brand-mark__icon {
+  background: var(--cm-purple);
+  color: var(--cm-gold);
+}
+
+/* Contrast and reduced-motion accommodations; no layout changes. */
+@media (prefers-reduced-motion: reduce) {
+  .public-menu .product-card,
+  .site-shell .button,
+  .admin-shell--workspace :is(.card, .button, .catalog-card) {
+    transition: none;
+  }
+}
+@media (prefers-contrast: more) {
+  .public-menu .product-card,
+  .admin-shell--workspace .card {
+    border-color: #8f639e;
+  }
+  .site-shell :is(.button, .input):focus-visible,
+  .admin-shell--workspace :is(.button, .input):focus-visible {
+    outline-color: #421052;
+  }
+}

@@ -7,7 +7,6 @@ import {
   BarChart3,
   Bell,
   BookOpen,
-  Boxes,
   ChevronRight,
   ClipboardList,
   Home,

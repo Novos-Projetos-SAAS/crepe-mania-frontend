@@ -1,0 +1,764 @@
+{
+  "baseUrl": "https://crepe-mania.vercel.app",
+  "fonteCatalogo": "backend/src/database/seeds/versions/011_cardapio_crepe_mania.js",
+  "total": 75,
+  "observacoes": [
+    {
+      "produtos": [
+        "Barca P",
+        "Barca M",
+        "Barca G"
+      ],
+      "categoria": "crepes-no-copo-e-barcas",
+      "motivo": "O cartaz de barcas associa P a 5 copos, M a 4 e G a 3, com preços na ordem inversa à esperada; confirmar tamanho e composição antes de publicar imagem."
+    },
+    {
+      "produtos": [
+        "Guaraná 2 Litros",
+        "Coca-Cola 2 Litros",
+        "Coca-Cola 600ml",
+        "Coca-Cola Lata"
+      ],
+      "categoria": "bebidas",
+      "motivo": "Usar fotografia legítima da embalagem comercial; evitar rótulo gerado artificialmente. O cartaz mostra Guaraná Antarctica em uma versão e Kuat em outra."
+    }
+  ],
+  "produtos": [
+    {
+      "categoria": "crepes-salgados",
+      "nome": "Presunto e Queijo",
+      "tipo": "CREPE",
+      "arquivo": "public/images/produtos/crepes-salgados/presunto-e-queijo.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/crepes-salgados/presunto-e-queijo.webp",
+      "status": "pronta",
+      "bytes": 159372,
+      "sha256": "47160249759a8d5f3e162869492ee2acda34b4ee614a3b161bde97f0ae3c0f1f"
+    },
+    {
+      "categoria": "crepes-salgados",
+      "nome": "Calabresa",
+      "tipo": "CREPE",
+      "arquivo": "public/images/produtos/crepes-salgados/calabresa.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/crepes-salgados/calabresa.webp",
+      "status": "pronta",
+      "bytes": 158706,
+      "sha256": "8c64f5810a889ba0e0ba62433ecdfa0d2feddb97924a992213d84e57a89de018"
+    },
+    {
+      "categoria": "crepes-salgados",
+      "nome": "Frango com Catupiry",
+      "tipo": "CREPE",
+      "arquivo": "public/images/produtos/crepes-salgados/frango-com-catupiry.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/crepes-salgados/frango-com-catupiry.webp",
+      "status": "pronta",
+      "bytes": 162864,
+      "sha256": "4c8a0c4c0d2d564add01aaa5ce2e2c5a28ce006880e784a893cc5e7dac8f0046"
+    },
+    {
+      "categoria": "crepes-salgados",
+      "nome": "Carne com Cheddar",
+      "tipo": "CREPE",
+      "arquivo": "public/images/produtos/crepes-salgados/carne-com-cheddar.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/crepes-salgados/carne-com-cheddar.webp",
+      "status": "pronta",
+      "bytes": 157520,
+      "sha256": "cff044c6975e31dbd4b11740b231b8dd4688fab0ca12e05ff520acb3669acb47"
+    },
+    {
+      "categoria": "crepes-salgados",
+      "nome": "Carne Seca com Catupiry",
+      "tipo": "CREPE",
+      "arquivo": "public/images/produtos/crepes-salgados/carne-seca-com-catupiry.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/crepes-salgados/carne-seca-com-catupiry.webp",
+      "status": "pronta",
+      "bytes": 192634,
+      "sha256": "5d0db55ecb1a24c8c3f354f5c00257b1f44f35a611c354eff67392480803a72b"
+    },
+    {
+      "categoria": "crepes-salgados",
+      "nome": "Costela Desfiada",
+      "tipo": "CREPE",
+      "arquivo": "public/images/produtos/crepes-salgados/costela-desfiada.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/crepes-salgados/costela-desfiada.webp",
+      "status": "pronta",
+      "bytes": 186542,
+      "sha256": "1086e2bf10027de529ad779a0a76459e2f3c5aa70a31e101ce356bf5a1ce04d3"
+    },
+    {
+      "categoria": "crepes-doces",
+      "nome": "Romeu e Julieta",
+      "tipo": "CREPE",
+      "arquivo": "public/images/produtos/crepes-doces/romeu-e-julieta.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/crepes-doces/romeu-e-julieta.webp",
+      "status": "pronta",
+      "bytes": 157108,
+      "sha256": "804b0b170699660d6c6c16dcb5cbe2c1a4b94e73f559a91f6c06565d09daabe3"
+    },
+    {
+      "categoria": "crepes-doces",
+      "nome": "Banana com Nutella",
+      "tipo": "CREPE",
+      "arquivo": "public/images/produtos/crepes-doces/banana-com-nutella.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/crepes-doces/banana-com-nutella.webp",
+      "status": "pronta",
+      "bytes": 164468,
+      "sha256": "5717d80aca00e4ce44ad69533de146728912575723856ec0c0773c5057ce737c"
+    },
+    {
+      "categoria": "crepes-doces",
+      "nome": "Morango com Nutella",
+      "tipo": "CREPE",
+      "arquivo": "public/images/produtos/crepes-doces/morango-com-nutella.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/crepes-doces/morango-com-nutella.webp",
+      "status": "pronta",
+      "bytes": 171770,
+      "sha256": "9946cf749686c2de8b0cd024c9ab92ef5e1d4a3343e968aed943a1982cb9aadd"
+    },
+    {
+      "categoria": "crepes-doces",
+      "nome": "Doce de Leite com Coco",
+      "tipo": "CREPE",
+      "arquivo": "public/images/produtos/crepes-doces/doce-de-leite-com-coco.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/crepes-doces/doce-de-leite-com-coco.webp",
+      "status": "pronta",
+      "bytes": 162520,
+      "sha256": "2bdf8d049524e312c57373dc43180f157d660c1b2dfa5bde061917901478d4c4"
+    },
+    {
+      "categoria": "crepes-doces",
+      "nome": "Chocolate",
+      "tipo": "CREPE",
+      "arquivo": "public/images/produtos/crepes-doces/chocolate.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/crepes-doces/chocolate.webp",
+      "status": "pronta",
+      "bytes": 144956,
+      "sha256": "ad6c2da73ca02c44c7605cdaac263f8f7dc927ce00caab958acaa67e360da88c"
+    },
+    {
+      "categoria": "crepes-doces",
+      "nome": "Leite Ninho",
+      "tipo": "CREPE",
+      "arquivo": "public/images/produtos/crepes-doces/leite-ninho.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/crepes-doces/leite-ninho.webp",
+      "status": "pronta",
+      "bytes": 179556,
+      "sha256": "e97335781e82ae152c88a69d0ab4c90a6c7644f7b06ab0a06d73252ae69aa9a8"
+    },
+    {
+      "categoria": "crepes-doces",
+      "nome": "Prestígio",
+      "tipo": "CREPE",
+      "arquivo": "public/images/produtos/crepes-doces/prestigio.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/crepes-doces/prestigio.webp",
+      "status": "pronta",
+      "bytes": 173488,
+      "sha256": "89e9ec19b922d676bcd9ded9f34af8649eb92daf5fa01f53f9f6154e9ced31a8"
+    },
+    {
+      "categoria": "pasteis-salgados",
+      "nome": "Carne",
+      "tipo": "PASTEL",
+      "arquivo": "public/images/produtos/pasteis-salgados/carne.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/pasteis-salgados/carne.webp",
+      "status": "pronta",
+      "bytes": 189066,
+      "sha256": "3606a2c4d1f9be22a01049c61e999729d601761a2c814be5f5ed130c6ec05451"
+    },
+    {
+      "categoria": "pasteis-salgados",
+      "nome": "Frango",
+      "tipo": "PASTEL",
+      "arquivo": "public/images/produtos/pasteis-salgados/frango.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/pasteis-salgados/frango.webp",
+      "status": "pronta",
+      "bytes": 154980,
+      "sha256": "d1fcd6f5f11feeb92a936520341bf242af340a30df4a48fd115157e1298b124a"
+    },
+    {
+      "categoria": "pasteis-salgados",
+      "nome": "Queijo",
+      "tipo": "PASTEL",
+      "arquivo": "public/images/produtos/pasteis-salgados/queijo.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/pasteis-salgados/queijo.webp",
+      "status": "pronta",
+      "bytes": 147284,
+      "sha256": "5c4ea2da087998f179f150a3ff32ea0ee46c441dd310e33723077c37eb3a5d7b"
+    },
+    {
+      "categoria": "pasteis-salgados",
+      "nome": "Pizza",
+      "tipo": "PASTEL",
+      "arquivo": "public/images/produtos/pasteis-salgados/pizza.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/pasteis-salgados/pizza.webp",
+      "status": "pronta",
+      "bytes": 171156,
+      "sha256": "7d3f7bfd8c7f9da1e863b715c31f9977a963d01261eba1e8ead72ae823d37720"
+    },
+    {
+      "categoria": "pasteis-salgados",
+      "nome": "Presunto e Queijo",
+      "tipo": "PASTEL",
+      "arquivo": "public/images/produtos/pasteis-salgados/presunto-e-queijo.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/pasteis-salgados/presunto-e-queijo.webp",
+      "status": "pronta",
+      "bytes": 120044,
+      "sha256": "ed93024349e1916de17872346936bfcc8ab27d8a6809f5495c026fc953bcd491"
+    },
+    {
+      "categoria": "pasteis-salgados",
+      "nome": "Calabresa",
+      "tipo": "PASTEL",
+      "arquivo": "public/images/produtos/pasteis-salgados/calabresa.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/pasteis-salgados/calabresa.webp",
+      "status": "pronta",
+      "bytes": 172630,
+      "sha256": "bb3cd026a0c553645c8dc0c2697bd5ef8cb0ec7811362cc610ec4992bd99b09b"
+    },
+    {
+      "categoria": "pasteis-salgados",
+      "nome": "Vegetariano",
+      "tipo": "PASTEL",
+      "arquivo": "public/images/produtos/pasteis-salgados/vegetariano.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/pasteis-salgados/vegetariano.webp",
+      "status": "pronta",
+      "bytes": 150832,
+      "sha256": "78d320c467a2c392a73caadc074daa4ac344cd501c99607594e57cfded9af14e"
+    },
+    {
+      "categoria": "pasteis-salgados",
+      "nome": "Costela Desfiada",
+      "tipo": "PASTEL",
+      "arquivo": "public/images/produtos/pasteis-salgados/costela-desfiada.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/pasteis-salgados/costela-desfiada.webp",
+      "status": "pronta",
+      "bytes": 185352,
+      "sha256": "19c8c7104ff2f90ef4a0c40490119f6d0b866e9e9344e7f0bde6432bec7164f1"
+    },
+    {
+      "categoria": "pasteis-salgados",
+      "nome": "Carne Louca",
+      "tipo": "PASTEL",
+      "arquivo": "public/images/produtos/pasteis-salgados/carne-louca.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/pasteis-salgados/carne-louca.webp",
+      "status": "pronta",
+      "bytes": 145886,
+      "sha256": "6f5000f49167437cca06080fa8a7e1fdbd5aec11172b2ab701902d967dcb4673"
+    },
+    {
+      "categoria": "pasteis-salgados",
+      "nome": "Medalhão",
+      "tipo": "PASTEL",
+      "arquivo": "public/images/produtos/pasteis-salgados/medalhao.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/pasteis-salgados/medalhao.webp",
+      "status": "pronta",
+      "bytes": 187570,
+      "sha256": "84dec106ec7313283634ef938d9526916d8d9e2d9843e6a6b870f96113d0c8b4"
+    },
+    {
+      "categoria": "pasteis-salgados",
+      "nome": "Carne Seca",
+      "tipo": "PASTEL",
+      "arquivo": "public/images/produtos/pasteis-salgados/carne-seca.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/pasteis-salgados/carne-seca.webp",
+      "status": "pronta",
+      "bytes": 181828,
+      "sha256": "f788c9b3049a8bb975ff0f086f34fb3bf683171f7209abbd5fa6f8a468ff8805"
+    },
+    {
+      "categoria": "pasteis-doces",
+      "nome": "Romeu e Julieta",
+      "tipo": "PASTEL",
+      "arquivo": "public/images/produtos/pasteis-doces/romeu-e-julieta.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/pasteis-doces/romeu-e-julieta.webp",
+      "status": "pronta",
+      "bytes": 139662,
+      "sha256": "416cf6b46a1da43a749b9c31ed409ad1845c23371351a16e4332c73d4d21cd0d"
+    },
+    {
+      "categoria": "pasteis-doces",
+      "nome": "Chocolate",
+      "tipo": "PASTEL",
+      "arquivo": "public/images/produtos/pasteis-doces/chocolate.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/pasteis-doces/chocolate.webp",
+      "status": "pronta",
+      "bytes": 144796,
+      "sha256": "e4bc88ce14ed802ca55779b84b33d691ca07caf571769d11b6f913d99f0d4821"
+    },
+    {
+      "categoria": "pasteis-doces",
+      "nome": "Leite Ninho",
+      "tipo": "PASTEL",
+      "arquivo": "public/images/produtos/pasteis-doces/leite-ninho.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/pasteis-doces/leite-ninho.webp",
+      "status": "pronta",
+      "bytes": 142692,
+      "sha256": "fefd81b8693bb0795be2420de65c760a8d56731051f345c06355d04996798897"
+    },
+    {
+      "categoria": "pasteis-doces",
+      "nome": "Banana com Canela",
+      "tipo": "PASTEL",
+      "arquivo": "public/images/produtos/pasteis-doces/banana-com-canela.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/pasteis-doces/banana-com-canela.webp",
+      "status": "pronta",
+      "bytes": 175156,
+      "sha256": "e3bc98b024e6fd532d7f16c56003d0507a575f9e23be88a823d21c3b3e0062b7"
+    },
+    {
+      "categoria": "pasteis-doces",
+      "nome": "Prestígio",
+      "tipo": "PASTEL",
+      "arquivo": "public/images/produtos/pasteis-doces/prestigio.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/pasteis-doces/prestigio.webp",
+      "status": "pronta",
+      "bytes": 150124,
+      "sha256": "360028755346ab9d94f1863203c6c10994c4ad16185e5b18005704e08013b1cb"
+    },
+    {
+      "categoria": "pasteis-doces",
+      "nome": "Nutella",
+      "tipo": "PASTEL",
+      "arquivo": "public/images/produtos/pasteis-doces/nutella.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/pasteis-doces/nutella.webp",
+      "status": "pronta",
+      "bytes": 151054,
+      "sha256": "1826466b9736b11f94262079e7281d41e8999c51549b8a1174c58786f057d738"
+    },
+    {
+      "categoria": "pizzas-salgadas",
+      "nome": "Calabresa",
+      "tipo": "PIZZA",
+      "arquivo": "public/images/produtos/pizzas-salgadas/calabresa.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/pizzas-salgadas/calabresa.webp",
+      "status": "pronta",
+      "bytes": 244384,
+      "sha256": "66c6697ea9f17799ea4aa2801fdb91fa43a624b8f10cde0360f159cd7231d7d5"
+    },
+    {
+      "categoria": "pizzas-salgadas",
+      "nome": "Frango com Catupiry",
+      "tipo": "PIZZA",
+      "arquivo": "public/images/produtos/pizzas-salgadas/frango-com-catupiry.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/pizzas-salgadas/frango-com-catupiry.webp",
+      "status": "pronta",
+      "bytes": 248766,
+      "sha256": "29b33b6bc5464385efda9f96a99299f14e602115f5e3a5a71a4f6bf6959c29f8"
+    },
+    {
+      "categoria": "pizzas-salgadas",
+      "nome": "Portuguesa",
+      "tipo": "PIZZA",
+      "arquivo": "public/images/produtos/pizzas-salgadas/portuguesa.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/pizzas-salgadas/portuguesa.webp",
+      "status": "pronta",
+      "bytes": 195450,
+      "sha256": "6abd4e2dab694aa3b5e6a687c81433d465fef4b09336e1bfdde0acf1c022871a"
+    },
+    {
+      "categoria": "pizzas-salgadas",
+      "nome": "4 Queijos",
+      "tipo": "PIZZA",
+      "arquivo": "public/images/produtos/pizzas-salgadas/4-queijos.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/pizzas-salgadas/4-queijos.webp",
+      "status": "pronta",
+      "bytes": 235280,
+      "sha256": "3b13e8da4ad2b1108a97ba74fdf579b36900f5764b6fa2d06e5494fc9ff8791a"
+    },
+    {
+      "categoria": "pizzas-salgadas",
+      "nome": "Bacon com Milho",
+      "tipo": "PIZZA",
+      "arquivo": "public/images/produtos/pizzas-salgadas/bacon-com-milho.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/pizzas-salgadas/bacon-com-milho.webp",
+      "status": "pronta",
+      "bytes": 222778,
+      "sha256": "1e54dabe38eb9b7253c9bf53860e56952914b200a7c1a877ade6756960fafd74"
+    },
+    {
+      "categoria": "pizzas-salgadas",
+      "nome": "Frango com Cheddar",
+      "tipo": "PIZZA",
+      "arquivo": "public/images/produtos/pizzas-salgadas/frango-com-cheddar.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/pizzas-salgadas/frango-com-cheddar.webp",
+      "status": "pronta",
+      "bytes": 206080,
+      "sha256": "9fa9c5520a6b4eab79750b73f7b8f6609f5560e7a3e74ade81e5ca0f407dd2fc"
+    },
+    {
+      "categoria": "pizzas-salgadas",
+      "nome": "Marguerita",
+      "tipo": "PIZZA",
+      "arquivo": "public/images/produtos/pizzas-salgadas/marguerita.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/pizzas-salgadas/marguerita.webp",
+      "status": "pronta",
+      "bytes": 220872,
+      "sha256": "b46895ab79e772a4864860ef575999a37c492ba66adc46ad01a571c7746c9d88"
+    },
+    {
+      "categoria": "pizzas-salgadas",
+      "nome": "Lombo com Catupiry",
+      "tipo": "PIZZA",
+      "arquivo": "public/images/produtos/pizzas-salgadas/lombo-com-catupiry.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/pizzas-salgadas/lombo-com-catupiry.webp",
+      "status": "pronta",
+      "bytes": 232660,
+      "sha256": "c3270c4fcf632d6cb2117a69a4fb0fc62da155a06ff9686f9819d3821db87af3"
+    },
+    {
+      "categoria": "pizzas-salgadas",
+      "nome": "Atum",
+      "tipo": "PIZZA",
+      "arquivo": "public/images/produtos/pizzas-salgadas/atum.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/pizzas-salgadas/atum.webp",
+      "status": "pronta",
+      "bytes": 260104,
+      "sha256": "fdcf7c757caac95e96e6e04f7531d915cedc4ea815e447b9b20d2b3dd2715c0f"
+    },
+    {
+      "categoria": "pizzas-salgadas",
+      "nome": "Baiana",
+      "tipo": "PIZZA",
+      "arquivo": "public/images/produtos/pizzas-salgadas/baiana.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/pizzas-salgadas/baiana.webp",
+      "status": "pronta",
+      "bytes": 275254,
+      "sha256": "b5d82a32d9d76cfa32aab0c9ada19ed54e6eba35ed2e34565c7d358b6c4ae9fb"
+    },
+    {
+      "categoria": "pizzas-doces",
+      "nome": "Chocolate com Morango",
+      "tipo": "PIZZA",
+      "arquivo": "public/images/produtos/pizzas-doces/chocolate-com-morango.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/pizzas-doces/chocolate-com-morango.webp",
+      "status": "pronta",
+      "bytes": 194234,
+      "sha256": "318564cdec1e4f8e3711164b619b2608315937cbc600f943d885d4a15cd01e83"
+    },
+    {
+      "categoria": "pizzas-doces",
+      "nome": "Romeu e Julieta",
+      "tipo": "PIZZA",
+      "arquivo": "public/images/produtos/pizzas-doces/romeu-e-julieta.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/pizzas-doces/romeu-e-julieta.webp",
+      "status": "pronta",
+      "bytes": 260550,
+      "sha256": "ae95ff150bf44f0cd7c38d2cc9e77d713202c89a99f87b8e1010e67c59b837f8"
+    },
+    {
+      "categoria": "pizzas-doces",
+      "nome": "Prestígio",
+      "tipo": "PIZZA",
+      "arquivo": "public/images/produtos/pizzas-doces/prestigio.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/pizzas-doces/prestigio.webp",
+      "status": "pronta",
+      "bytes": 274616,
+      "sha256": "7ca08cbf12a935a6ca8dbb0ad23e82dcdd6478288f4357cf9f9fbc0b26ee592e"
+    },
+    {
+      "categoria": "pizzas-doces",
+      "nome": "Banana com Canela",
+      "tipo": "PIZZA",
+      "arquivo": "public/images/produtos/pizzas-doces/banana-com-canela.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/pizzas-doces/banana-com-canela.webp",
+      "status": "pronta",
+      "bytes": 250212,
+      "sha256": "26c786d3568957a08a67052a6223a839ffb2783ef699f62bb5c28ab041c567d5"
+    },
+    {
+      "categoria": "pizzas-doces",
+      "nome": "Doce de Leite com Paçoca",
+      "tipo": "PIZZA",
+      "arquivo": "public/images/produtos/pizzas-doces/doce-de-leite-com-pacoca.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/pizzas-doces/doce-de-leite-com-pacoca.webp",
+      "status": "pronta",
+      "bytes": 275090,
+      "sha256": "10faa7acb496892e07e9c5070084b77ad99bcd8610f47ca2121b41e0db4d4d84"
+    },
+    {
+      "categoria": "pizzas-doces",
+      "nome": "Chocolate Branco com Morango",
+      "tipo": "PIZZA",
+      "arquivo": "public/images/produtos/pizzas-doces/chocolate-branco-com-morango.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/pizzas-doces/chocolate-branco-com-morango.webp",
+      "status": "pronta",
+      "bytes": 224580,
+      "sha256": "270ae8984bd0a3bb0aed1c1214544aab4e46e237c7978139db3d89221f9dddf9"
+    },
+    {
+      "categoria": "pizzas-doces",
+      "nome": "Doce de Leite com Banana",
+      "tipo": "PIZZA",
+      "arquivo": "public/images/produtos/pizzas-doces/doce-de-leite-com-banana.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/pizzas-doces/doce-de-leite-com-banana.webp",
+      "status": "pronta",
+      "bytes": 205116,
+      "sha256": "65cd56ccb5428f6f187606343492938a611669e57e4d860b09e6a8d81cde3317"
+    },
+    {
+      "categoria": "pizzas-doces",
+      "nome": "Nutella com Morango",
+      "tipo": "PIZZA",
+      "arquivo": "public/images/produtos/pizzas-doces/nutella-com-morango.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/pizzas-doces/nutella-com-morango.webp",
+      "status": "pronta",
+      "bytes": 239444,
+      "sha256": "0c5b76864e3ffa1b4e88d246032b1d24c7adc87382c8f3b95717113b0fbf2da9"
+    },
+    {
+      "categoria": "pizzas-doces",
+      "nome": "Leite Ninho com Nutella",
+      "tipo": "PIZZA",
+      "arquivo": "public/images/produtos/pizzas-doces/leite-ninho-com-nutella.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/pizzas-doces/leite-ninho-com-nutella.webp",
+      "status": "pronta",
+      "bytes": 319548,
+      "sha256": "ef1f364e08c75394af4140f33c2c271e26d700f7497342138ef76823a87458de"
+    },
+    {
+      "categoria": "bebidas",
+      "nome": "Guaraná 2 Litros",
+      "tipo": "BEBIDA",
+      "arquivo": "public/images/produtos/bebidas/guarana-2-litros.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/bebidas/guarana-2-litros.webp",
+      "status": "pendente"
+    },
+    {
+      "categoria": "bebidas",
+      "nome": "Coca-Cola 2 Litros",
+      "tipo": "BEBIDA",
+      "arquivo": "public/images/produtos/bebidas/coca-cola-2-litros.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/bebidas/coca-cola-2-litros.webp",
+      "status": "pendente"
+    },
+    {
+      "categoria": "bebidas",
+      "nome": "Coca-Cola 600ml",
+      "tipo": "BEBIDA",
+      "arquivo": "public/images/produtos/bebidas/coca-cola-600ml.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/bebidas/coca-cola-600ml.webp",
+      "status": "pendente"
+    },
+    {
+      "categoria": "bebidas",
+      "nome": "Coca-Cola Lata",
+      "tipo": "BEBIDA",
+      "arquivo": "public/images/produtos/bebidas/coca-cola-lata.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/bebidas/coca-cola-lata.webp",
+      "status": "pendente"
+    },
+    {
+      "categoria": "bebidas",
+      "nome": "Água Mineral",
+      "tipo": "BEBIDA",
+      "arquivo": "public/images/produtos/bebidas/agua-mineral.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/bebidas/agua-mineral.webp",
+      "status": "pronta",
+      "bytes": 135932,
+      "sha256": "bd60512ebde87134fcf631be1725b1df8d7f7f1da607ba67f3e7db6e519297c8"
+    },
+    {
+      "categoria": "bebidas",
+      "nome": "Água com Gás",
+      "tipo": "BEBIDA",
+      "arquivo": "public/images/produtos/bebidas/agua-com-gas.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/bebidas/agua-com-gas.webp",
+      "status": "pronta",
+      "bytes": 170320,
+      "sha256": "115b18df3fda921ee2408a8ab6f4df492f9eb182a867e5dcad1f84487185f45e"
+    },
+    {
+      "categoria": "sucos-naturais",
+      "nome": "Suco de Maracujá",
+      "tipo": "SUCO",
+      "arquivo": "public/images/produtos/sucos-naturais/suco-de-maracuja.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/sucos-naturais/suco-de-maracuja.webp",
+      "status": "pronta",
+      "bytes": 124310,
+      "sha256": "e320469741cd48e7a15011722e0d3ecaf2c768005e7a801dc5fbfab097c31146"
+    },
+    {
+      "categoria": "sucos-naturais",
+      "nome": "Suco de Morango",
+      "tipo": "SUCO",
+      "arquivo": "public/images/produtos/sucos-naturais/suco-de-morango.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/sucos-naturais/suco-de-morango.webp",
+      "status": "pronta",
+      "bytes": 189400,
+      "sha256": "1806795ac3f25eba5f700c1b5e47d24cb53e26fffb5b562e5371c7bc0b9c912c"
+    },
+    {
+      "categoria": "sucos-naturais",
+      "nome": "Suco de Laranja",
+      "tipo": "SUCO",
+      "arquivo": "public/images/produtos/sucos-naturais/suco-de-laranja.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/sucos-naturais/suco-de-laranja.webp",
+      "status": "pronta",
+      "bytes": 151796,
+      "sha256": "f16c1a90a19f12939be800a024e0d10e749b214627fe6362c1c2108b0c705235"
+    },
+    {
+      "categoria": "sucos-naturais",
+      "nome": "Suco de Abacaxi",
+      "tipo": "SUCO",
+      "arquivo": "public/images/produtos/sucos-naturais/suco-de-abacaxi.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/sucos-naturais/suco-de-abacaxi.webp",
+      "status": "pronta",
+      "bytes": 165756,
+      "sha256": "72e394e59b5cca5a47bcdc76a8764539f839fe80f774daf63ddac4097a3efb1e"
+    },
+    {
+      "categoria": "sucos-naturais",
+      "nome": "Suco de Limão",
+      "tipo": "SUCO",
+      "arquivo": "public/images/produtos/sucos-naturais/suco-de-limao.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/sucos-naturais/suco-de-limao.webp",
+      "status": "pronta",
+      "bytes": 147214,
+      "sha256": "5a2b63d282995c1b8e1e938526ecc11afde7addaeea23767a1d6ece5472ce376"
+    },
+    {
+      "categoria": "sucos-naturais",
+      "nome": "Suco de Manga",
+      "tipo": "SUCO",
+      "arquivo": "public/images/produtos/sucos-naturais/suco-de-manga.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/sucos-naturais/suco-de-manga.webp",
+      "status": "pronta",
+      "bytes": 119880,
+      "sha256": "cbcacb39194a9a8078f2af7fa9889163d9ca0e092c53a3bfc80268f6a3c212b0"
+    },
+    {
+      "categoria": "sucos-naturais",
+      "nome": "Suco de Uva",
+      "tipo": "SUCO",
+      "arquivo": "public/images/produtos/sucos-naturais/suco-de-uva.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/sucos-naturais/suco-de-uva.webp",
+      "status": "pronta",
+      "bytes": 164554,
+      "sha256": "11417fd4114930bfc39ea66dcbb65cae27bc85a2ee821cdad11abf992dc945c3"
+    },
+    {
+      "categoria": "sucos-naturais",
+      "nome": "Suco de Melancia",
+      "tipo": "SUCO",
+      "arquivo": "public/images/produtos/sucos-naturais/suco-de-melancia.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/sucos-naturais/suco-de-melancia.webp",
+      "status": "pronta",
+      "bytes": 188082,
+      "sha256": "e14ffd1b0bd8170a659924af616159d275a88c7757bc6975f605558e2c261377"
+    },
+    {
+      "categoria": "sucos-naturais",
+      "nome": "Suco de Coco",
+      "tipo": "SUCO",
+      "arquivo": "public/images/produtos/sucos-naturais/suco-de-coco.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/sucos-naturais/suco-de-coco.webp",
+      "status": "pronta",
+      "bytes": 164920,
+      "sha256": "b365692178094a710a9cb8cbe621ed1698114923920aa505d62d6375b3fb6d77"
+    },
+    {
+      "categoria": "sucos-naturais",
+      "nome": "Suco de Goiaba",
+      "tipo": "SUCO",
+      "arquivo": "public/images/produtos/sucos-naturais/suco-de-goiaba.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/sucos-naturais/suco-de-goiaba.webp",
+      "status": "pronta",
+      "bytes": 168324,
+      "sha256": "fa53caf29bed1938c944a8a4af5be9658878e43e126e2b538a9aaf210808c8d9"
+    },
+    {
+      "categoria": "acai",
+      "nome": "Açaí na Garrafinha 500ml",
+      "tipo": "ACAI",
+      "arquivo": "public/images/produtos/acai/acai-na-garrafinha-500ml.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/acai/acai-na-garrafinha-500ml.webp",
+      "status": "pronta",
+      "bytes": 135650,
+      "sha256": "2e92c1ea9aefea949aae4eb270e8c39c5374fab1940c5d98059d470593b0c68c"
+    },
+    {
+      "categoria": "acai",
+      "nome": "Açaí na Garrafinha 700ml",
+      "tipo": "ACAI",
+      "arquivo": "public/images/produtos/acai/acai-na-garrafinha-700ml.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/acai/acai-na-garrafinha-700ml.webp",
+      "status": "pronta",
+      "bytes": 136012,
+      "sha256": "3982b78a95fe6c757aad254e58d58ffbc47c905e26c127710b049e2114e3c5a9"
+    },
+    {
+      "categoria": "acai",
+      "nome": "Açaí no Copo",
+      "tipo": "ACAI",
+      "arquivo": "public/images/produtos/acai/acai-no-copo.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/acai/acai-no-copo.webp",
+      "status": "pronta",
+      "bytes": 152382,
+      "sha256": "5fcc07210732cd9f58929dd10d843e520fd82519fbd62b02250ac81256b2f98d"
+    },
+    {
+      "categoria": "caldo-de-cana",
+      "nome": "Caldo de Cana 700ml",
+      "tipo": "SUCO",
+      "arquivo": "public/images/produtos/caldo-de-cana/caldo-de-cana-700ml.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/caldo-de-cana/caldo-de-cana-700ml.webp",
+      "status": "pronta",
+      "bytes": 147502,
+      "sha256": "c442a3c8a8c92c801df467e04c482cc95c7f3ff4ee02b6a7a11238f8147eaf3f"
+    },
+    {
+      "categoria": "crepes-no-copo-e-barcas",
+      "nome": "Crepe no Copo P",
+      "tipo": "CREPE",
+      "arquivo": "public/images/produtos/crepes-no-copo-e-barcas/crepe-no-copo-p.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/crepes-no-copo-e-barcas/crepe-no-copo-p.webp",
+      "status": "pronta",
+      "bytes": 144176,
+      "sha256": "ac47c0a6d42a40c301a393e6b229b7f7c500e002cdc08b8fac71796776acee6f"
+    },
+    {
+      "categoria": "crepes-no-copo-e-barcas",
+      "nome": "Crepe no Copo M",
+      "tipo": "CREPE",
+      "arquivo": "public/images/produtos/crepes-no-copo-e-barcas/crepe-no-copo-m.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/crepes-no-copo-e-barcas/crepe-no-copo-m.webp",
+      "status": "pronta",
+      "bytes": 175052,
+      "sha256": "973c3435572b7050d21e8e9cb92c4c026b669fe043095ec2ac092215bb0638aa"
+    },
+    {
+      "categoria": "crepes-no-copo-e-barcas",
+      "nome": "Crepe no Copo G",
+      "tipo": "CREPE",
+      "arquivo": "public/images/produtos/crepes-no-copo-e-barcas/crepe-no-copo-g.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/crepes-no-copo-e-barcas/crepe-no-copo-g.webp",
+      "status": "pronta",
+      "bytes": 190246,
+      "sha256": "4ddbb3660a6dc3f322708168902f55c6619ad9364aa21ee4f24013c0e95ec46f"
+    },
+    {
+      "categoria": "crepes-no-copo-e-barcas",
+      "nome": "Barca P",
+      "tipo": "CREPE",
+      "arquivo": "public/images/produtos/crepes-no-copo-e-barcas/barca-p.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/crepes-no-copo-e-barcas/barca-p.webp",
+      "status": "pendente"
+    },
+    {
+      "categoria": "crepes-no-copo-e-barcas",
+      "nome": "Barca M",
+      "tipo": "CREPE",
+      "arquivo": "public/images/produtos/crepes-no-copo-e-barcas/barca-m.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/crepes-no-copo-e-barcas/barca-m.webp",
+      "status": "pendente"
+    },
+    {
+      "categoria": "crepes-no-copo-e-barcas",
+      "nome": "Barca G",
+      "tipo": "CREPE",
+      "arquivo": "public/images/produtos/crepes-no-copo-e-barcas/barca-g.webp",
+      "url": "https://crepe-mania.vercel.app/images/produtos/crepes-no-copo-e-barcas/barca-g.webp",
+      "status": "pendente"
+    }
+  ]
+}

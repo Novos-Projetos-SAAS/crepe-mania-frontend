@@ -4,7 +4,7 @@ import { useMemo, useState } from "react";
 import Link from "next/link";
 import { useParams } from "next/navigation";
 import { useMutation, useQuery } from "@tanstack/react-query";
-import { ArrowLeft, BarChart3, BookOpen, Boxes, CalendarDays, ChevronLeft, ChevronRight, Download, FileDown, PackageSearch, ReceiptText, Search, ShoppingBasket, Truck, UsersRound, Utensils } from "lucide-react";
+import { ArrowLeft, BarChart3, BookOpen, CalendarDays, ChevronLeft, ChevronRight, Download, FileDown, PackageSearch, ReceiptText, Search, ShoppingBasket, Truck, UsersRound, Utensils } from "lucide-react";
 import { apiErrorMessage } from "@/lib/api-errors";
 import { formatDateTime, localDate } from "@/lib/date";
 import { formatCurrency } from "@/lib/money";

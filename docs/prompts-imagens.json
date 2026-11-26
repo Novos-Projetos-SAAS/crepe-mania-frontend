@@ -1,0 +1,410 @@
+[
+  {
+    "categoria": "crepes-salgados",
+    "nome": "Presunto e Queijo",
+    "arquivo": "public/images/produtos/crepes-salgados/presunto-e-queijo.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: thin golden Brazilian folded savory crepe cut open, filled with sliced ham and visibly melted cheese. Show the entire item, opened to clearly reveal its specific filling, 45-degree view. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "crepes-salgados",
+    "nome": "Calabresa",
+    "arquivo": "public/images/produtos/crepes-salgados/calabresa.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: thin golden Brazilian folded savory crepe cut open, filled with sliced calabresa sausage and melted cheese. Show the entire item, opened to clearly reveal its specific filling, 45-degree view. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "crepes-salgados",
+    "nome": "Frango com Catupiry",
+    "arquivo": "public/images/produtos/crepes-salgados/frango-com-catupiry.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: thin golden Brazilian folded savory crepe cut open, filled with shredded chicken and creamy Catupiry cheese. Show the entire item, opened to clearly reveal its specific filling, 45-degree view. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "crepes-salgados",
+    "nome": "Carne com Cheddar",
+    "arquivo": "public/images/produtos/crepes-salgados/carne-com-cheddar.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: thin golden Brazilian folded savory crepe cut open, filled with seasoned ground beef and creamy cheddar. Show the entire item, opened to clearly reveal its specific filling, 45-degree view. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "crepes-salgados",
+    "nome": "Carne Seca com Catupiry",
+    "arquivo": "public/images/produtos/crepes-salgados/carne-seca-com-catupiry.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: thin golden Brazilian folded savory crepe cut open, filled primarily with shredded Brazilian carne seca and creamy Catupiry cheese. Show the entire item, opened to clearly reveal its specific filling, 45-degree view. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "crepes-salgados",
+    "nome": "Costela Desfiada",
+    "arquivo": "public/images/produtos/crepes-salgados/costela-desfiada.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: thin golden Brazilian folded savory crepe cut open, filled primarily with juicy slow-cooked shredded beef rib. Show the entire item, opened to clearly reveal its specific filling, 45-degree view. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "crepes-doces",
+    "nome": "Romeu e Julieta",
+    "arquivo": "public/images/produtos/crepes-doces/romeu-e-julieta.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: thin golden folded Brazilian sweet crepe cut open, filled with white cheese and red guava paste, no chocolate or strawberry. Show the entire item, opened to clearly reveal its specific filling, 45-degree view. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "crepes-doces",
+    "nome": "Banana com Nutella",
+    "arquivo": "public/images/produtos/crepes-doces/banana-com-nutella.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: thin golden folded Brazilian sweet crepe cut open, filled with sliced banana and glossy chocolate hazelnut spread. Show the entire item, opened to clearly reveal its specific filling, 45-degree view. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "crepes-doces",
+    "nome": "Morango com Nutella",
+    "arquivo": "public/images/produtos/crepes-doces/morango-com-nutella.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: thin golden folded Brazilian sweet crepe cut open, filled with fresh sliced strawberries and glossy chocolate hazelnut spread. Show the entire item, opened to clearly reveal its specific filling, 45-degree view. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "crepes-doces",
+    "nome": "Doce de Leite com Coco",
+    "arquivo": "public/images/produtos/crepes-doces/doce-de-leite-com-coco.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: thin golden folded Brazilian sweet crepe cut open, filled with caramel dulce de leche and shredded coconut. Show the entire item, opened to clearly reveal its specific filling, 45-degree view. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "crepes-doces",
+    "nome": "Chocolate",
+    "arquivo": "public/images/produtos/crepes-doces/chocolate.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: thin golden folded Brazilian sweet crepe cut open, filled only with luscious melted chocolate. Show the entire item, opened to clearly reveal its specific filling, 45-degree view. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "crepes-doces",
+    "nome": "Leite Ninho",
+    "arquivo": "public/images/produtos/crepes-doces/leite-ninho.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: thin golden folded Brazilian sweet crepe cut open, filled with pale creamy powdered milk confection and a light dusting of milk powder. Show the entire item, opened to clearly reveal its specific filling, 45-degree view. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "crepes-doces",
+    "nome": "Prestígio",
+    "arquivo": "public/images/produtos/crepes-doces/prestigio.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: thin golden folded Brazilian sweet crepe cut open, filled with chocolate and shredded coconut. Show the entire item, opened to clearly reveal its specific filling, 45-degree view. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "pasteis-salgados",
+    "nome": "Carne",
+    "arquivo": "public/images/produtos/pasteis-salgados/carne.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: crispy golden Brazilian fried rectangular pastel cut open, filled with seasoned ground beef. Show the entire item, opened to clearly reveal its specific filling, 45-degree view. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "pasteis-salgados",
+    "nome": "Frango",
+    "arquivo": "public/images/produtos/pasteis-salgados/frango.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: crispy golden Brazilian fried rectangular pastel cut open, filled with seasoned shredded chicken. Show the entire item, opened to clearly reveal its specific filling, 45-degree view. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "pasteis-salgados",
+    "nome": "Queijo",
+    "arquivo": "public/images/produtos/pasteis-salgados/queijo.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: crispy golden Brazilian fried rectangular pastel cut open, filled with creamy melted cheese. Show the entire item, opened to clearly reveal its specific filling, 45-degree view. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "pasteis-salgados",
+    "nome": "Pizza",
+    "arquivo": "public/images/produtos/pasteis-salgados/pizza.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: crispy golden Brazilian fried rectangular pastel cut open, filled with ham, melted cheese and oregano. Show the entire item, opened to clearly reveal its specific filling, 45-degree view. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "pasteis-salgados",
+    "nome": "Presunto e Queijo",
+    "arquivo": "public/images/produtos/pasteis-salgados/presunto-e-queijo.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: crispy golden Brazilian fried rectangular pastel cut open, filled with sliced ham and melted cheese. Show the entire item, opened to clearly reveal its specific filling, 45-degree view. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "pasteis-salgados",
+    "nome": "Calabresa",
+    "arquivo": "public/images/produtos/pasteis-salgados/calabresa.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: crispy golden Brazilian fried rectangular pastel cut open, filled with calabresa sausage and melted cheese. Show the entire item, opened to clearly reveal its specific filling, 45-degree view. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "pasteis-salgados",
+    "nome": "Vegetariano",
+    "arquivo": "public/images/produtos/pasteis-salgados/vegetariano.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: crispy golden Brazilian fried rectangular pastel cut open, filled with fresh seasoned mixed vegetables, no meat. Show the entire item, opened to clearly reveal its specific filling, 45-degree view. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "pasteis-salgados",
+    "nome": "Costela Desfiada",
+    "arquivo": "public/images/produtos/pasteis-salgados/costela-desfiada.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: crispy golden Brazilian fried rectangular pastel cut open, filled primarily with juicy slow-cooked shredded beef rib. Show the entire item, opened to clearly reveal its specific filling, 45-degree view. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "pasteis-salgados",
+    "nome": "Carne Louca",
+    "arquivo": "public/images/produtos/pasteis-salgados/carne-louca.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: crispy golden Brazilian fried rectangular pastel cut open, filled with well-seasoned shredded beef. Show the entire item, opened to clearly reveal its specific filling, 45-degree view. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "pasteis-salgados",
+    "nome": "Medalhão",
+    "arquivo": "public/images/produtos/pasteis-salgados/medalhao.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: crispy golden Brazilian fried rectangular pastel cut open, filled with pieces of beef medallion and melted cheese. Show the entire item, opened to clearly reveal its specific filling, 45-degree view. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "pasteis-salgados",
+    "nome": "Carne Seca",
+    "arquivo": "public/images/produtos/pasteis-salgados/carne-seca.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: crispy golden Brazilian fried rectangular pastel cut open, filled with shredded Brazilian carne seca and melted cheese. Show the entire item, opened to clearly reveal its specific filling, 45-degree view. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "pasteis-doces",
+    "nome": "Romeu e Julieta",
+    "arquivo": "public/images/produtos/pasteis-doces/romeu-e-julieta.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: crispy golden Brazilian fried pastel cut open, filled with white cheese and red guava paste, no chocolate or fruit. Show the entire item, opened to clearly reveal its specific filling, 45-degree view. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "pasteis-doces",
+    "nome": "Chocolate",
+    "arquivo": "public/images/produtos/pasteis-doces/chocolate.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: crispy golden Brazilian fried pastel cut open, filled with creamy melted chocolate. Show the entire item, opened to clearly reveal its specific filling, 45-degree view. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "pasteis-doces",
+    "nome": "Leite Ninho",
+    "arquivo": "public/images/produtos/pasteis-doces/leite-ninho.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: crispy golden Brazilian fried pastel cut open, filled with pale creamy powdered milk confection. Show the entire item, opened to clearly reveal its specific filling, 45-degree view. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "pasteis-doces",
+    "nome": "Banana com Canela",
+    "arquivo": "public/images/produtos/pasteis-doces/banana-com-canela.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: crispy golden Brazilian fried pastel cut open, filled with banana slices and cinnamon. Show the entire item, opened to clearly reveal its specific filling, 45-degree view. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "pasteis-doces",
+    "nome": "Prestígio",
+    "arquivo": "public/images/produtos/pasteis-doces/prestigio.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: crispy golden Brazilian fried pastel cut open, filled with chocolate and shredded coconut. Show the entire item, opened to clearly reveal its specific filling, 45-degree view. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "pasteis-doces",
+    "nome": "Nutella",
+    "arquivo": "public/images/produtos/pasteis-doces/nutella.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: crispy golden Brazilian fried pastel cut open, filled with glossy chocolate hazelnut spread. Show the entire item, opened to clearly reveal its specific filling, 45-degree view. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "pizzas-salgadas",
+    "nome": "Calabresa",
+    "arquivo": "public/images/produtos/pizzas-salgadas/calabresa.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: round traditional Brazilian pizza with tomato sauce, melted mozzarella, sliced calabresa sausage and onion. Show the entire circular pizza, 45-degree view. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "pizzas-salgadas",
+    "nome": "Frango com Catupiry",
+    "arquivo": "public/images/produtos/pizzas-salgadas/frango-com-catupiry.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: round traditional Brazilian pizza with tomato sauce, melted mozzarella, shredded chicken and creamy Catupiry cheese. Show the entire circular pizza, 45-degree view. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "pizzas-salgadas",
+    "nome": "Portuguesa",
+    "arquivo": "public/images/produtos/pizzas-salgadas/portuguesa.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: round traditional Brazilian pizza with tomato sauce, melted mozzarella, ham, sliced boiled egg, onion, bell pepper and olives. Show the entire circular pizza, 45-degree view. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "pizzas-salgadas",
+    "nome": "4 Queijos",
+    "arquivo": "public/images/produtos/pizzas-salgadas/4-queijos.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: round traditional Brazilian pizza with four distinct melted cheeses: mozzarella, parmesan, provolone and gorgonzola. Show the entire circular pizza, 45-degree view. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "pizzas-salgadas",
+    "nome": "Bacon com Milho",
+    "arquivo": "public/images/produtos/pizzas-salgadas/bacon-com-milho.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: round traditional Brazilian pizza with tomato sauce, melted mozzarella, visibly crisp bacon pieces and yellow corn kernels. Show the entire circular pizza, 45-degree view. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "pizzas-salgadas",
+    "nome": "Frango com Cheddar",
+    "arquivo": "public/images/produtos/pizzas-salgadas/frango-com-cheddar.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: round traditional Brazilian pizza with tomato sauce, melted mozzarella, shredded chicken and creamy cheddar. Show the entire circular pizza, 45-degree view. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "pizzas-salgadas",
+    "nome": "Marguerita",
+    "arquivo": "public/images/produtos/pizzas-salgadas/marguerita.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: round traditional Brazilian pizza with tomato sauce, melted mozzarella, tomato and fresh basil leaves. Show the entire circular pizza, 45-degree view. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "pizzas-salgadas",
+    "nome": "Lombo com Catupiry",
+    "arquivo": "public/images/produtos/pizzas-salgadas/lombo-com-catupiry.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: round traditional Brazilian pizza with tomato sauce, melted mozzarella, sliced pork loin and creamy Catupiry cheese. Show the entire circular pizza, 45-degree view. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "pizzas-salgadas",
+    "nome": "Atum",
+    "arquivo": "public/images/produtos/pizzas-salgadas/atum.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: round traditional Brazilian pizza with tomato sauce, melted mozzarella, tuna, onion and olives. Show the entire circular pizza, 45-degree view. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "pizzas-salgadas",
+    "nome": "Baiana",
+    "arquivo": "public/images/produtos/pizzas-salgadas/baiana.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: round traditional Brazilian pizza with tomato sauce, melted mozzarella, spicy ground beef, sliced pepper and onion. Show the entire circular pizza, 45-degree view. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "pizzas-doces",
+    "nome": "Chocolate com Morango",
+    "arquivo": "public/images/produtos/pizzas-doces/chocolate-com-morango.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: round Brazilian dessert pizza topped with creamy milk chocolate and fresh sliced strawberries. Show the entire circular pizza, 45-degree view. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "pizzas-doces",
+    "nome": "Romeu e Julieta",
+    "arquivo": "public/images/produtos/pizzas-doces/romeu-e-julieta.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: round Brazilian dessert pizza topped with white cheese and red guava paste, no chocolate or strawberry. Show the entire circular pizza, 45-degree view. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "pizzas-doces",
+    "nome": "Prestígio",
+    "arquivo": "public/images/produtos/pizzas-doces/prestigio.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: round Brazilian dessert pizza topped with chocolate, shredded coconut and powdered milk cream. Show the entire circular pizza, 45-degree view. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "pizzas-doces",
+    "nome": "Banana com Canela",
+    "arquivo": "public/images/produtos/pizzas-doces/banana-com-canela.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: round Brazilian dessert pizza topped with sliced banana, cinnamon, sugar and a light drizzle of condensed milk. Show the entire circular pizza, 45-degree view. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "pizzas-doces",
+    "nome": "Doce de Leite com Paçoca",
+    "arquivo": "public/images/produtos/pizzas-doces/doce-de-leite-com-pacoca.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: round Brazilian dessert pizza topped with caramel dulce de leche and crumbled peanut paçoca. Show the entire circular pizza, 45-degree view. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "pizzas-doces",
+    "nome": "Chocolate Branco com Morango",
+    "arquivo": "public/images/produtos/pizzas-doces/chocolate-branco-com-morango.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: round Brazilian dessert pizza topped with creamy white chocolate and fresh sliced strawberries. Show the entire circular pizza, 45-degree view. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "pizzas-doces",
+    "nome": "Doce de Leite com Banana",
+    "arquivo": "public/images/produtos/pizzas-doces/doce-de-leite-com-banana.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: round Brazilian dessert pizza topped with caramel dulce de leche and sliced banana. Show the entire circular pizza, 45-degree view. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "pizzas-doces",
+    "nome": "Nutella com Morango",
+    "arquivo": "public/images/produtos/pizzas-doces/nutella-com-morango.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: round Brazilian dessert pizza topped with glossy chocolate hazelnut spread and fresh sliced strawberries. Show the entire circular pizza, 45-degree view. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "pizzas-doces",
+    "nome": "Leite Ninho com Nutella",
+    "arquivo": "public/images/produtos/pizzas-doces/leite-ninho-com-nutella.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: round Brazilian dessert pizza topped with pale powdered milk cream and glossy chocolate hazelnut spread. Show the entire circular pizza, 45-degree view. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "bebidas",
+    "nome": "Água Mineral",
+    "arquivo": "public/images/produtos/bebidas/agua-mineral.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: one clear unbranded sealed 500 ml mineral water bottle, condensation droplets, transparent still water, blank transparent label. Show the entire cup or bottle upright, centered. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "bebidas",
+    "nome": "Água com Gás",
+    "arquivo": "public/images/produtos/bebidas/agua-com-gas.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: one clear unbranded sealed 500 ml sparkling mineral water bottle, visible fine carbonation bubbles and condensation, blank transparent label. Show the entire cup or bottle upright, centered. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "sucos-naturais",
+    "nome": "Suco de Maracujá",
+    "arquivo": "public/images/produtos/sucos-naturais/suco-de-maracuja.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: one clear unbranded 500 ml cup of freshly made natural Maracujá juice, realistic color and texture, condensation, with the matching fresh Maracujá fruit beside the cup. Show the entire cup or bottle upright, centered. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "sucos-naturais",
+    "nome": "Suco de Morango",
+    "arquivo": "public/images/produtos/sucos-naturais/suco-de-morango.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: one clear unbranded 500 ml cup of freshly made natural Morango juice, realistic color and texture, condensation, with the matching fresh Morango fruit beside the cup. Show the entire cup or bottle upright, centered. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "sucos-naturais",
+    "nome": "Suco de Laranja",
+    "arquivo": "public/images/produtos/sucos-naturais/suco-de-laranja.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: one clear unbranded 500 ml cup of freshly made natural Laranja juice, realistic color and texture, condensation, with the matching fresh Laranja fruit beside the cup. Show the entire cup or bottle upright, centered. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "sucos-naturais",
+    "nome": "Suco de Abacaxi",
+    "arquivo": "public/images/produtos/sucos-naturais/suco-de-abacaxi.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: one clear unbranded 500 ml cup of freshly made natural Abacaxi juice, realistic color and texture, condensation, with the matching fresh Abacaxi fruit beside the cup. Show the entire cup or bottle upright, centered. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "sucos-naturais",
+    "nome": "Suco de Limão",
+    "arquivo": "public/images/produtos/sucos-naturais/suco-de-limao.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: one clear unbranded 500 ml cup of freshly made natural Limão juice, realistic color and texture, condensation, with the matching fresh Limão fruit beside the cup. Show the entire cup or bottle upright, centered. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "sucos-naturais",
+    "nome": "Suco de Manga",
+    "arquivo": "public/images/produtos/sucos-naturais/suco-de-manga.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: one clear unbranded 500 ml cup of freshly made natural Manga juice, realistic color and texture, condensation, with the matching fresh Manga fruit beside the cup. Show the entire cup or bottle upright, centered. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "sucos-naturais",
+    "nome": "Suco de Uva",
+    "arquivo": "public/images/produtos/sucos-naturais/suco-de-uva.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: one clear unbranded 500 ml cup of freshly made natural Uva juice, realistic color and texture, condensation, with the matching fresh Uva fruit beside the cup. Show the entire cup or bottle upright, centered. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "sucos-naturais",
+    "nome": "Suco de Melancia",
+    "arquivo": "public/images/produtos/sucos-naturais/suco-de-melancia.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: one clear unbranded 500 ml cup of freshly made natural Melancia juice, realistic color and texture, condensation, with the matching fresh Melancia fruit beside the cup. Show the entire cup or bottle upright, centered. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "sucos-naturais",
+    "nome": "Suco de Coco",
+    "arquivo": "public/images/produtos/sucos-naturais/suco-de-coco.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: one clear unbranded 500 ml cup of freshly made natural Coco juice, realistic color and texture, condensation, with the matching fresh Coco fruit beside the cup. Show the entire cup or bottle upright, centered. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "sucos-naturais",
+    "nome": "Suco de Goiaba",
+    "arquivo": "public/images/produtos/sucos-naturais/suco-de-goiaba.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: one clear unbranded 500 ml cup of freshly made natural Goiaba juice, realistic color and texture, condensation, with the matching fresh Goiaba fruit beside the cup. Show the entire cup or bottle upright, centered. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "acai",
+    "nome": "Açaí na Garrafinha 500ml",
+    "arquivo": "public/images/produtos/acai/acai-na-garrafinha-500ml.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: one compact clear unbranded 500 ml capped bottle filled with thick dark-purple Brazilian açaí, realistic bottle scale, condensation, no toppings. Show the entire cup or bottle upright, centered. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "acai",
+    "nome": "Açaí na Garrafinha 700ml",
+    "arquivo": "public/images/produtos/acai/acai-na-garrafinha-700ml.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: one taller clear unbranded 700 ml capped bottle filled with thick dark-purple Brazilian açaí, realistic larger bottle scale, condensation, no toppings. Show the entire cup or bottle upright, centered. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "acai",
+    "nome": "Açaí no Copo",
+    "arquivo": "public/images/produtos/acai/acai-no-copo.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: one clear unbranded cup filled with thick creamy dark-purple Brazilian açaí, smooth swirl on top, no fruit, granola or other toppings. Show the entire cup or bottle upright, centered. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "caldo-de-cana",
+    "nome": "Caldo de Cana 700ml",
+    "arquivo": "public/images/produtos/caldo-de-cana/caldo-de-cana-700ml.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: one clear unbranded 700 ml cup of fresh pale yellow-green Brazilian sugarcane juice with condensation and short cut sugarcane stalks nearby, no lime garnish. Show the entire cup or bottle upright, centered. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "crepes-no-copo-e-barcas",
+    "nome": "Crepe no Copo P",
+    "arquivo": "public/images/produtos/crepes-no-copo-e-barcas/crepe-no-copo-p.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: one small transparent unbranded takeaway cup holding freshly made sweet crepe pieces with chocolate and strawberry, sized small, composition inspired by the client's crepe cup poster. Show the entire cup or bottle upright, centered. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "crepes-no-copo-e-barcas",
+    "nome": "Crepe no Copo M",
+    "arquivo": "public/images/produtos/crepes-no-copo-e-barcas/crepe-no-copo-m.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: one medium transparent unbranded takeaway cup holding freshly made sweet crepe pieces with chocolate and strawberry, sized medium, composition inspired by the client's crepe cup poster. Show the entire cup or bottle upright, centered. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  },
+  {
+    "categoria": "crepes-no-copo-e-barcas",
+    "nome": "Crepe no Copo G",
+    "arquivo": "public/images/produtos/crepes-no-copo-e-barcas/crepe-no-copo-g.webp",
+    "prompt": "Use case: product-mockup. Asset type: square menu catalog product photograph for Crepe Mania. Scene: rustic wood table in a dark softly blurred Brazilian snack bar with subtle purple and yellow accents. Subject: one large transparent unbranded takeaway cup holding freshly made sweet crepe pieces with chocolate and strawberry, sized large, composition inspired by the client's crepe cup poster. Show the entire cup or bottle upright, centered. Style: photorealistic premium Brazilian food advertising, artisanal texture, generous but believable portion. Warm golden professional lighting, consistent natural shadows, shallow depth of field, sharp food detail. Constraints: only the named product and ingredients explicitly described; no people, cartoon, extra food, extra ingredients, invented brands, text, logos, labels, prices, banners, watermark or collage."
+  }
+]

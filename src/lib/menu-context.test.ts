@@ -8,7 +8,7 @@ describe("menu context", () => {
   });
 
   it("serializes only search and category", () => {
-    expect(buildMenuReturnPath({ search: "  Crepe de Frango  ", category: "crepes-salgados" })).toBe("/?busca=Crepe de Frango&categoria=crepes-salgados");
+    expect(buildMenuReturnPath({ search: "  Crepe de Frango  ", category: "crepes-salgados" })).toBe("/?busca=Crepe+de+Frango&categoria=crepes-salgados");
     expect(menuContextFromSearch("?busca=Crepe de Frango&categoria=crepes-salgados&token=secret")).toEqual({ search: "Crepe de Frango", category: "crepes-salgados" });
   });
 

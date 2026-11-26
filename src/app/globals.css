@@ -1,0 +1,17 @@
+@import "tailwindcss";
+@import "./styles/base.css";
+@import "./(public)/home.css";
+@import "./(public)/produto/[id]/produto.css";
+@import "./(public)/carrinho/carrinho.css";
+@import "./(public)/meus-pedidos/meus-pedidos.css";
+@import "./(public)/pedido/confirmado/confirmado.css";
+@import "./(public)/acompanhar/acompanhar.css";
+@import "./(public)/acompanhar/[codigo]/acompanhamento.css";
+@import "./(public)/pedidos-compartilhado.css";
+@import "./(public)/finalizar/finalizar.css";
+@import "./styles/admin.css";
+@import "./styles/admin-tables.css";
+
+@import "./styles/admin-mobile-actions.css";
+@import "./styles/admin-manual-sticky-mvp.css";
+/* Tabelas administrativas: visual claro e compacto, carregado por último. */

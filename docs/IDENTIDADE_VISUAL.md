@@ -22,9 +22,9 @@ Referências: peças publicitárias do cliente com **roxo vibrante + amarelo dou
 
 A folha `src/app/styles/crepe-mania-theme.css` é importada no fim de `src/app/globals.css`, **após** os CSS de cardápio e administração. Ela contém apenas tokens e regras de aparência (cores, superfícies, sombras, bordas, estados hover/foco). O objetivo é permitir revisão e reversão isoladas.
 
-- **Cardápio:** hero em roxo profundo, acentos dourados, categorias ativas com destaque, fotos e cards com profundidade moderada, CTA dourado e carrinho móvel roxo.
+- **Cardápio:** hero em roxo profundo e sombra escura, acentos dourados, categorias ativas com destaque, fotos e cards com sombras roxas mais profundas, CTA dourado e carrinho móvel roxo.
 - **Produto e compra:** preço roxo, escolhas selecionadas com fundo lilás, resumo de compra roxo escuro.
-- **Dashboard:** sidebar roxa, item ativo dourado, botões roxos, cards com borda lilás, tabelas roxas e seleção dourada.
+- **Dashboard:** sidebar roxa, item ativo violeta intenso com detalhe dourado, botões roxos, cards com borda lilás, tabelas roxas e seleção dourada.
 - **Acessibilidade:** foco visível; estados de sucesso, aviso e erro continuam específicos; suporte a `prefers-reduced-motion` e `prefers-contrast`.
 
 ## O que esta branch não faz

@@ -65,6 +65,7 @@
     .catalog-category__icon { display: grid; place-items: center; width: 2.25rem; height: 2.25rem; flex-shrink: 0; border-radius: 0.5rem; background: #f4f5f3; color: #59665c; }
     .catalog-category[aria-pressed="true"] .catalog-category__icon { background: var(--brand-soft); color: var(--brand); }
     .catalog-category__icon svg { width: 1.2rem; }
+    .catalog-category__icon img { width: 100%; height: 100%; object-fit: contain; }
     .catalog-category > span:nth-child(2) { min-width: 0; }
     .catalog-category strong { display: block; font-size: 0.875rem; font-weight: 850; overflow-wrap: anywhere; }
     .catalog-category small { display: block; margin-top: 0.2rem; color: var(--text-muted); font-size: 0.75rem; overflow-wrap: anywhere; }

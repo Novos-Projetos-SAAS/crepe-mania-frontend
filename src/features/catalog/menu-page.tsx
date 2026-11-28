@@ -119,7 +119,7 @@ export function MenuPage() {
           <div className="menu-tools">
             <nav className="category-rail" aria-label="Categorias do cardápio">
               <button type="button" aria-current={category === "todos" ? "true" : undefined} onClick={() => selectCategory("todos")}>
-                <span className="category-item__image" aria-hidden="true"><Store aria-hidden /></span>
+                <span className="category-item__image" aria-hidden="true"><CategoryImage name="Todos" sizes="72px" /></span>
                 <span className="category-item__name">Todos</span>
               </button>
               {(menu.data || []).map((item) => (
